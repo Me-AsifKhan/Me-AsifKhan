@@ -7,12 +7,17 @@
 
 
 
-# 💫 About Me:
 <p align="center">
-  <b> DevOps Engineer | Cloud & Automation | Architecting highly available systems, automating CI/CD pipelines, and enforcing Infrastructure as Code (IaC).</b><br>
+  <b>Architecting highly available systems, automating CI/CD pipelines, and enforcing Infrastructure as Code (IaC).</b><br>
   Based in India 📍
 </p>
- 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/measifkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:veteranasifk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://medium.com/@asif_7736"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
+
 
 ---
 
